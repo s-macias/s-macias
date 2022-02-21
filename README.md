@@ -2,9 +2,9 @@
 
 # Sandra Macías
 
-I have a BA in Philosophy with a minor concentration in sociology. I have always been interested in the topics of social progress, inclusion and justice. The way I found to make a concrete contribution to these fields was through education. My professional background has been in the field of education in and outside the classrooms. This interest in improving accessibility and quality of education led me to look at technology to expand the impact that teachers can have on students and cater to their individual needs. 
+I have a BA in Philosophy with a minor concentration in sociology. I have always been interested in the topics of social progress, inclusion and justice. The way I found to make a concrete contribution to these fields was through education. I have studied neuroscience and its applications to education in particular. I deeply believe in the power of technology to impact social lives in a positive way.
 
-I have just finished the Full Stack Web Development Foundations Program at Holberton School and am looking to transition to a career in the EdTech industry.
+I have finished the Full Stack Web Development Foundations Program at Holberton School and am looking to transition to a career in the tech industry.
 
 ---
 
