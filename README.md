@@ -2,7 +2,7 @@
 
 # Sandra  M.
 
-I have a BA in Philosophy with a minor concentration in sociology. I have always been interested in the topics of social progress, inclusion and justice. The way I found to make a concrete contribution to these fields was through education. I have studied neuroscience and its applications to education in particular. I deeply believe in the power of technology to impact social lives in a positive way.
+
 
 
 
